@@ -52,5 +52,11 @@
 
     <p>🌐 <a href="mailto:founder@oidshield.com">Email us</a> | 🚀 Site in development: OidShield.com</p>
   </div>
+  <hr>
+<h2>Patent & Legal Development</h2>
+<p>OidShield has initiated its patent protection process through the California Inventors Assistance Program (CIAP), managed by California Lawyers for the Arts. We are currently completing intake for pro bono support to file a provisional patent covering our autonomous overdose intervention system.</p>
+
+<p>The invention — a wearable device that detects flatline ECG signals and administers intranasal naloxone without bystander intervention — is novel, life-saving, and highly relevant to underserved populations affected by opioid use disorder. Legal representation through CIAP will help OidShield secure early IP protection as we progress toward clinical prototyping and investor readiness.</p>
+
 </body>
 </html>
