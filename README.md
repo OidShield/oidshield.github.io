@@ -1,2 +1,56 @@
-# oidshield.github.io
-OidShield is a wearable, automated overdose reversal device. It detects flatlines and administers naloxone in real time — no bystander needed.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OidShield – Life-Saving Wearable</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #222;
+      padding: 40px;
+      line-height: 1.7;
+    }
+    h1, h2 {
+      color: #b30000;
+    }
+    a {
+      color: #b30000;
+      text-decoration: none;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.05);
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>OidShield – Life-Saving Wearable Technology</h1>
+    <p><strong>🚨 A device that can save lives when no one else is around.</strong></p>
+
+    <h2>About OidShield</h2>
+    <p>OidShield is a pioneering harm reduction technology startup focused on saving lives during opioid overdose emergencies. Our mission is to deliver a wearable, open-source medical device that automatically detects a flatline in heart activity and administers naloxone (Narcan) without the need for a bystander. This ensures that even solitary overdoses—one of the leading causes of preventable death in the opioid epidemic—can be reversed quickly and effectively.</p>
+
+    <p>Combining advanced biosignal monitoring, real-time ECG processing, and a proprietary actuator that triggers nasal naloxone delivery, OidShield is building the first truly autonomous overdose intervention device. The system is designed to be low-cost, open-access, and field-deployable for high-risk populations including individuals experiencing homelessness, post-incarceration transition, or living in isolation.</p>
+
+    <p>Founded by Brandon Norman and advised by a medical student with clinical overdose response training and a senior software architect, OidShield bridges the gap between public health need and wearable innovation. We are currently preparing our SBIR Phase I application with NIH/NIDA and will be engaging public safety and harm reduction partners in field trials beginning in 2025.</p>
+
+    <h2>What We’re Building</h2>
+    <p>OidShield is a wearable device that detects flatlines in real-time and automatically administers a dose of naloxone (Narcan) to reverse opioid overdoses — without the need for a bystander. Using biosignal monitoring, open-source hardware, and intranasal delivery, our system provides autonomous emergency response.</p>
+
+    <h2>Why It Matters</h2>
+    <p>Over 100,000 people die from opioid overdoses in the U.S. each year, and many of them die alone. OidShield aims to change that by bringing automatic overdose reversal to the people who need it most.</p>
+
+    <h2>Our Ask</h2>
+    <p>We’re raising support to fund legal incorporation, regulatory preparation, and early hardware prototyping. Your contribution helps make OidShield real.</p>
+
+    <p>🌐 <a href="mailto:founder@oidshield.com">Email us</a> | 🚀 Site in development: OidShield.com</p>
+  </div>
+</body>
+</html>
