@@ -57,6 +57,8 @@
 <p>OidShield has initiated its patent protection process through the California Inventors Assistance Program (CIAP), managed by California Lawyers for the Arts. We are currently completing intake for pro bono support to file a provisional patent covering our autonomous overdose intervention system.</p>
 
 <p>The invention — a wearable device that detects flatline ECG signals and administers intranasal naloxone without bystander intervention — is novel, life-saving, and highly relevant to underserved populations affected by opioid use disorder. Legal representation through CIAP will help OidShield secure early IP protection as we progress toward clinical prototyping and investor readiness.</p>
-
+<p>The invention — a wearable device that detects flatline ECG signals and administers intranasal naloxone without bystander intervention — is novel, life-saving, and highly relevant to underserved populations affected by opioid use disorder. Legal representation through CIAP will help OidShield secure early IP protection as we progress toward clinical prototyping and investor readiness.</p>
+<p><h2>Kiva Crowdfunding Strategy</h2></p>
+<p>To successfully fund my Kiva loan, I will reach out to my immediate network of family, friends, and supporters who are passionate about harm reduction and public health. I will share the loan link via social media, email, local recovery groups, and overdose prevention communities. During the Private Fundraising Period, I’ll personally invite 5–50 trusted contacts, including my brothers and local allies, to be the first to lend and build early momentum. I will keep promoting the campaign with regular updates, visual storytelling, and outreach to harm reduction networks to ensure the loan is fully funded.</p>
 </body>
 </html>
